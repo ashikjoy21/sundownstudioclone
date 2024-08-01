@@ -20,7 +20,7 @@ body {
     /* background-color: #EFEAE3; */
   
         /* background-color: #000; */
-        position: fixed;
+        position: relative;
         z-index: 10;
     }
 #page1 {
